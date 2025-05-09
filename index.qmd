@@ -1,0 +1,40 @@
+---
+title: Syllabus
+---
+
+Once I start earning I want to buy these subscriptions:
+
+- [MathAcademy](https://www.mathacademy.com)
+- [MasterClass](https://www.masterclass.com/classes/indra-nooyi-teaches-leading-with-purpose?&campaignid=22508113840&adgroupid=179701354780&adid=749912039176&utm_term=&utm_campaign=%5BMC%5D+%7C+Prospecting-Promos-MDay-EndsSoon-25Q2+%7C+T2+%7C+Demand+Gen+%7C+CBO+%7C+Sales&utm_source=google&utm_medium=youtube&hsa_acc=9801000675&hsa_cam=22508113840&hsa_grp=179701354780&hsa_ad=749912039176&hsa_src=&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gclid=Cj0KCQjw_dbABhC5ARIsAAh2Z-RznIHpp3AqVoMTyRe1L7iNtxTOS-AWBKXmvTLFdkJe1ipJD8Xi2rIaAs16EALw_wcB&gclsrc=aw.ds)
+- [Rendering Black Holes](https://arxiv.org/pdf/1502.03808)
+
+
+in the about section of this part of the site add later:
+
+scrapbook, I was thinking of scrapbook being a legitimate title and analogy for this section of the site, just then, I searched for srapbook-dot-com and found on their homepage that there is something called as international scrapbook day, and [[coincidence]] the day today (Saturday, 03 May) is that day (scrapbook day is celebrated on first saturday of May).
+
+# history
+
+```yaml
+- name: Bronson
+  status: todo
+  category: movie
+  info: a biopic based loosely on [[charles-bronson]] (prisoner) staring [[tom-hardy]].
+  count: +1
+- name: Andreas Kling
+  status: done
+  category: video
+  info: a browser tinkerer, browser professional, drug addict, back to oss and rocking
+  count: +1
+```
+
+# ideas
+
+```yaml
+- ripgrep for websites
+  info: recursively opening links and searching text in website, potentially regex
+  count: +1+1
+- visual feedback for scroll location
+  info: render scrollbars useless with alternative spatially static visual
+  count: +1+1
+```
